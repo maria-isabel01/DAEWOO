@@ -1,0 +1,225 @@
+# Gestión Ágil - Sprint Management
+- name: "sprint"
+  color: "0052CC"
+  description: "Sprint actual o planificado"
+
+- name: "backlog"
+  color: "0066FF"
+  description: "Item en el backlog del proyecto"
+
+- name: "ready"
+  color: "1F77B4"
+  description: "Item listo para comenzar"
+
+- name: "in-progress"
+  color: "004B87"
+  description: "Trabajo en progreso"
+
+- name: "blocked"
+  color: "FF0000"
+  description: "Bloqueado por una dependencia"
+
+- name: "review"
+  color: "6366F1"
+  description: "En revisión de código"
+
+- name: "testing"
+  color: "8B5CF6"
+  description: "En fase de testing"
+
+- name: "done"
+  color: "28A745"
+  description: "Completado"
+
+# Historias de Usuario
+- name: "user-story"
+  color: "9F1D20"
+  description: "Historia de usuario"
+
+- name: "epic"
+  color: "B5188B"
+  description: "Epic de proyecto"
+
+- name: "task"
+  color: "C41E3A"
+  description: "Tarea asociada"
+
+- name: "subtask"
+  color: "A71C1F"
+  description: "Subtarea"
+
+- name: "acceptance-criteria"
+  color: "D62D7D"
+  description: "Criterios de aceptación definidos"
+
+# Documentación
+- name: "documentation"
+  color: "FF9500"
+  description: "Documentación del proyecto"
+
+- name: "api-documentation"
+  color: "FFA500"
+  description: "Documentación de API"
+
+- name: "technical-documentation"
+  color: "FFB84D"
+  description: "Documentación técnica"
+
+- name: "user-manual"
+  color: "FFC266"
+  description: "Manual de usuario"
+
+- name: "architecture"
+  color: "FF8C00"
+  description: "Arquitectura del sistema"
+
+# Integraciones
+- name: "integration"
+  color: "E81B23"
+  description: "Integración con otros sistemas"
+
+- name: "external-api"
+  color: "DC143C"
+  description: "Integración con API externa"
+
+- name: "third-party"
+  color: "C41E3A"
+  description: "Dependencia de terceros"
+
+- name: "webhook"
+  color: "FF1744"
+  description: "Configuración de webhook"
+
+- name: "authentication"
+  color: "E53935"
+  description: "Autenticación y acceso"
+
+# Desarrollo
+- name: "frontend"
+  color: "04A86E"
+  description: "Desarrollo frontend"
+
+- name: "backend"
+  color: "28A745"
+  description: "Desarrollo backend"
+
+- name: "database"
+  color: "218838"
+  description: "Relacionado con base de datos"
+
+- name: "api"
+  color: "1E7E34"
+  description: "Desarrollo de API"
+
+- name: "microservice"
+  color: "2E8B57"
+  description: "Microservicio"
+
+- name: "refactor"
+  color: "3CB371"
+  description: "Refactorización de código"
+
+- name: "technical-debt"
+  color: "6B8E23"
+  description: "Deuda técnica"
+
+# Calidad
+- name: "testing"
+  color: "F0E68C"
+  description: "Testing general"
+
+- name: "unit-test"
+  color: "FFD700"
+  description: "Unit tests"
+
+- name: "integration-test"
+  color: "FFC700"
+  description: "Tests de integración"
+
+- name: "e2e-test"
+  color: "FFB81C"
+  description: "End-to-end tests"
+
+- name: "qa"
+  color: "FFA500"
+  description: "Control de calidad"
+
+# Infraestructura y DevOps
+- name: "devops"
+  color: "424242"
+  description: "DevOps y operaciones"
+
+- name: "ci-cd"
+  color: "37474F"
+  description: "Integración y despliegue continuo"
+
+- name: "deployment"
+  color: "263238"
+  description: "Despliegue a producción"
+
+- name: "docker"
+  color: "2496ED"
+  description: "Configuración Docker"
+
+- name: "cloud"
+  color: "1D9FD7"
+  description: "Servicios en la nube"
+
+- name: "monitoring"
+  color: "546E7A"
+  description: "Monitoreo y alertas"
+
+# Seguridad
+- name: "security"
+  color: "8B0000"
+  description: "Seguridad del sistema"
+
+- name: "vulnerability"
+  color: "DC143C"
+  description: "Vulnerabilidad de seguridad"
+
+- name: "permissions"
+  color: "A52A2A"
+  description: "Gestión de permisos"
+
+- name: "authorization"
+  color: "8B4513"
+  description: "Autorización y control de acceso"
+
+# Prioridad
+- name: "priority:high"
+  color: "FF0000"
+  description: "Alta prioridad"
+
+- name: "priority:medium"
+  color: "FFA500"
+  description: "Prioridad media"
+
+- name: "priority:low"
+  color: "FFFF00"
+  description: "Baja prioridad"
+
+- name: "critical"
+  color: "8B0000"
+  description: "Crítico - requiere atención inmediata"
+
+# Tipo de Incidencia
+- name: "bug"
+  color: "FF6B6B"
+  description: "Reporte de error/bug"
+
+- name: "hotfix"
+  color: "FF4444"
+  description: "Corrección urgente"
+
+- name: "incident"
+  color: "FF0000"
+  description: "Incidente en producción"
+
+- name: "performance"
+  color: "FF8533"
+  description: "Problema de rendimiento"
+
+- name: "maintenance"
+  color: "FFB84D"
+  description: "Mantenimiento del sistema"
